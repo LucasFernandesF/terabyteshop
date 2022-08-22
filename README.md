@@ -12,6 +12,7 @@
 <table>
   <tr>
     <td align="center"><a href="https://github.com/LucasFernandesF"><img src="https://avatars.githubusercontent.com/u/103151835?v=4" width="100px;" alt=""/><br /><sub><b>Lucas Fernandes</b></sub></a><br />
+    <td align="center"><a href="https://github.com/artbatistat"><img src="https://avatars.githubusercontent.com/u/52763653?v=4" width="100px;" alt=""/><br /><sub><b>Arthut Batistas</b></sub></a><br />
   <tr>
 <table
 <!-- markdownlint-restore -->
