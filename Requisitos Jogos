@@ -112,3 +112,20 @@ Placa de vídeo: Nvidia GeForce GTX 1060 6GB / AMD Radeon RX 480 4GB
 Rede: Conexão de internet banda larga
 Armazenamento: 150 GB de espaço disponível
 Placa de som: Direct X Compatible
+
+MÍNIMOS:
+Requer um processador e sistema operacional de 64 bits
+SO: Windows 10 (64 bit)
+Processador: AMD Ryzen 3 1200 ／ Intel Core i5-7500
+Memória: 8 GB de RAM
+Placa de vídeo: AMD Radeon RX 560 with 4GB VRAM ／ NVIDIA GeForce GTX 1050 Ti with 4GB VRAM
+DirectX: Versão 12
+Outras observações: Estimated performance (when set to Prioritize Performance): 1080p/60fps. ・Framerate might drop in graphics-intensive scenes. ・AMD Radeon RX 6700 XT or NVIDIA GeForce RTX 2060 required to support ray tracing.
+RECOMENDADOS:
+Requer um processador e sistema operacional de 64 bits
+SO: Windows 10 (64 bit)
+Processador: AMD Ryzen 5 3600 ／ Intel Core i7 8700
+Memória: 16 GB de RAM
+Placa de vídeo: AMD Radeon RX 5700 ／ NVIDIA GeForce GTX 1070
+DirectX: Versão 12
+Outras observações: Estimated performance: 1080p/60fps ・Framerate might drop in graphics-intensive scenes. ・AMD Radeon RX 6700 XT or NVIDIA GeForce RTX 2070 required to support ray tracing.
