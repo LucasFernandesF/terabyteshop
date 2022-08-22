@@ -13,6 +13,8 @@
   <tr>
     <td align="center"><a href="https://github.com/LucasFernandesF"><img src="https://avatars.githubusercontent.com/u/103151835?v=4" width="100px;" alt=""/><br /><sub><b>Lucas Fernandes</b></sub></a><br />
     <td align="center"><a href="https://github.com/artbatistat"><img src="https://avatars.githubusercontent.com/u/52763653?v=4" width="100px;" alt=""/><br /><sub><b>Arthut Batistas</b></sub></a><br />
+    <td align="center"><a href="https://github.com/lucsferreira"><img src="https://avatars.githubusercontent.com/u/45069020?v=4" width="100px;" alt=""/><br /><sub><b>Lucas Ferreira</b></sub></a><br />
+    <td align="center"><a href="https://github.com/LuizEdu1"><img src="https://avatars.githubusercontent.com/u/102266793?v=4" width="100px;" alt=""/><br /><sub><b>Luiz Eduardo</b></sub></a><br />
   <tr>
 <table
 <!-- markdownlint-restore -->
