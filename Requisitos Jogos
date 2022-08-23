@@ -1,4 +1,7 @@
-Here are the PLAYERUNKNOWN'S BATTLEGROUNDS System Requirements (Minimum)
+
+
+----------------------------------------------------------PLAYERUNKNOWN'S BATTLEGROUNDS System Requirements (Minimum)----------------------------------------------------------
+
 •	CPU: Intel Core i5-4430 / AMD FX-6300
 •	CPU SPEED: Info
 •	RAM: 8 GB
@@ -8,7 +11,8 @@ Here are the PLAYERUNKNOWN'S BATTLEGROUNDS System Requirements (Minimum)
 •	VERTEX SHADER: 5.1
 •	FREE DISK SPACE: 30 GB
 •	DEDICATED VIDEO RAM: 2 GB
-PLAYERUNKNOWN'S BATTLEGROUNDS Recommended Requirements
+----------------------------------------------------------PLAYERUNKNOWN'S BATTLEGROUNDS Recommended Requirements----------------------------------------------------------
+
 •	CPU: Intel Core i5-6600K / AMD Ryzen 5 1600
 •	CPU SPEED: Info
 •	RAM: 16 GB
@@ -19,7 +23,13 @@ PLAYERUNKNOWN'S BATTLEGROUNDS Recommended Requirements
 •	FREE DISK SPACE: 30 GB
 •	DEDICATED VIDEO RAM: 3 GB (4 GB AMD)
 
-Here are the League of Legends System Requirements (Minimum)
+
+
+
+
+
+----------------------------------------------------------League of Legends System Requirements (Minimum)---------------------------------------------------------------
+
 •	CPU: Intel Core i3-530 / AMD A6-3650
 •	RAM: 2 GB
 •	OS: Windows 7
@@ -27,7 +37,8 @@ Here are the League of Legends System Requirements (Minimum)
 •	PIXEL SHADER: 4.0
 •	VERTEX SHADER: 4.0
 •	FREE DISK SPACE: 16 GB
-League of Legends Recommended Requirements
+----------------------------------------------------------League of Legends Recommended Requirements------------------------------------------------------------------
+
 •	CPU: Intel Core i5-3300 / AMD Ryzen 3 1200
 •	RAM: 4 GB
 •	OS: Windows 10 64-Bit
@@ -36,17 +47,38 @@ League of Legends Recommended Requirements
 •	VERTEX SHADER: 5.0
 •	FREE DISK SPACE: 16 GB
 
-Here are the Counter-Strike: Global Offensive System Requirements (Minimum)
+
+
+
+
+
+----------------------------------------------------------Counter-Strike: Global Offensive System Requirements (Minimum)----------------------------------------------------------
+
 •	CPU: Intel® Core™ 2 Duo E6600 or AMD Phenom™ X3 8750 processor or better
 •	CPU SPEED: Info
 •	RAM: 2 GB
 •	OS: Windows® 7/Vista/XP
-•	VIDEO CARD: Video card must be 256 MB or more and should be a DirectX 9-compatible with support for Pixel Shader 3.0
-•	PIXEL SHADER: 3.0
-•	FREE DISK SPACE: 15 GB
-•	DEDICATED VIDEO RAM: 256 MB
+•	PLACA DE VIDEO: 256MB de VRAM com DirectX 9
+• Monitor: 144Hz
+• Espaço (HD): 7,6GB
 
-Here are the Grand Theft Auto V System Requirements (Minimum)
+----------------------------------------------------------Counter-Strike: Global Offensive Recommended Requirements----------------------------------------------------------
+
+• OS: Windows 7 (PC), OS X 10.7.5 (Mac)
+• CPU:Intel Pentium Dual-Core E5700 3 GHz, AMD Phenom 8750 Triple-Core
+• RAM: 4GB
+• PLACA DE VIDEO:		Nvidia Geforce GT 630, AMD Radeon HD 6670
+• Espaço (HD)	15GB
+• Monitor144Hz
+
+
+
+
+
+
+
+----------------------------------------------------------Grand Theft Auto V System Requirements (Minimum)----------------------------------------------------------
+
 •	CPU: Intel Core 2 Quad CPU Q6600 @ 2.40GHz (4 CPUs) / AMD Phenom 9850 Quad-Core Processor (4 CPUs) @ 2.5GHz
 •	CPU SPEED: Info
 •	RAM: 4 GB
@@ -57,7 +89,9 @@ Here are the Grand Theft Auto V System Requirements (Minimum)
 •	SOUND CARD: 100% DirectX 10 compatible
 •	FREE DISK SPACE: 72 GB
 •	DEDICATED VIDEO RAM: 1 GB
-Grand Theft Auto V Recommended Requirements
+
+----------------------------------------------------------Grand Theft Auto V Recommended Requirements-------------------------------------------------------------------
+
 •	CPU: Intel Core i5 3470 @ 3.2GHz (4 CPUs) / AMD X8 FX-8350 @ 4GHz (8 CPUs)
 •	CPU SPEED: Info
 •	RAM: 8 GB
@@ -69,7 +103,13 @@ Grand Theft Auto V Recommended Requirements
 •	FREE DISK SPACE: 72 GB
 •	DEDICATED VIDEO RAM: 2 GB
 
-Here are the Red Dead Redemption 2 System Requirements (Minimum)
+
+
+
+
+
+
+----------------------------------------------------------Red Dead Redemption 2 System Requirements (Minimum)----------------------------------------------------------
 •	CPU: Intel Core i5-2500K / AMD FX-6300
 •	CPU SPEED: Info
 •	RAM: 8 GB
@@ -79,7 +119,8 @@ Here are the Red Dead Redemption 2 System Requirements (Minimum)
 •	VERTEX SHADER: 5.0
 •	FREE DISK SPACE: 150 GB
 •	DEDICATED VIDEO RAM: 2048 MB
-Red Dead Redemption 2 Recommended Requirements
+-
+----------------------------------------------------------Red Dead Redemption 2 Recommended Requirements-----------------------------------------------------------------
 •	CPU: Intel Core i7-4770K / AMD Ryzen 5 1500X
 •	CPU SPEED: Info
 •	RAM: 12 GB
@@ -90,10 +131,8 @@ Red Dead Redemption 2 Recommended Requirements
 •	FREE DISK SPACE: 150 GB
 •	DEDICATED VIDEO RAM: 3072 MB
 
-RED DEAD REDEMPTION
+----------------------------------------------------------Red Dead Redemption  System Requirements (Minimum)----------------------------------------------------------
 
-REQUISITOS DE SISTEMA
-MÍNIMOS:
 Requer um processador e sistema operacional de 64 bits
 SO: Windows 10 - April 2018 Update (v1803)
 Processador: Intel® Core™ i7-4770K / AMD Ryzen 5 1500X
@@ -103,7 +142,7 @@ Rede: Conexão de internet banda larga
 Armazenamento: 150 GB de espaço disponível
 Placa de som: Direct X Compatible
 
-RECOMENDADOS:
+----------------------------------------------------------Red Dead Redemption  Recommended Requirements------------------------------------------------------------------
 Requer um processador e sistema operacional de 64 bits
 SO: Windows 10 - April 2018 Update (v1803)
 Processador: Intel® Core™ i7-4770K / AMD Ryzen 5 1500X
@@ -113,27 +152,37 @@ Rede: Conexão de internet banda larga
 Armazenamento: 150 GB de espaço disponível
 Placa de som: Direct X Compatible
 
-Resident Evil Village
 
-MÍNIMOS:
+
+
+
+
+
+----------------------------------------------------------Resident Evil Village  System Requirements (Minimum)----------------------------------------------------------
+
+
 Requer um processador e sistema operacional de 64 bits
 SO: Windows 10 (64 bit)
 Processador: AMD Ryzen 3 1200 ／ Intel Core i5-7500
 Memória: 8 GB de RAM
 Placa de vídeo: AMD Radeon RX 560 with 4GB VRAM ／ NVIDIA GeForce GTX 1050 Ti with 4GB VRAM
 DirectX: Versão 12
-Outras observações: Estimated performance (when set to Prioritize Performance): 1080p/60fps. ・Framerate might drop in graphics-intensive scenes. ・AMD Radeon RX 6700 XT or NVIDIA GeForce RTX 2060 required to support ray tracing.
 
-RECOMENDADOS:
+----------------------------------------------------------Resident Evil Village Recommended Requirements----------------------------------------------------------------
 Requer um processador e sistema operacional de 64 bits
 SO: Windows 10 (64 bit)
 Processador: AMD Ryzen 5 3600 ／ Intel Core i7 8700
 Memória: 16 GB de RAM
 Placa de vídeo: AMD Radeon RX 5700 ／ NVIDIA GeForce GTX 1070
 DirectX: Versão 12
-Outras observações: Estimated performance: 1080p/60fps ・Framerate might drop in graphics-intensive scenes. ・AMD Radeon RX 6700 XT or NVIDIA GeForce RTX 2070 required to support ray tracing.
 
-Overwatch: requisitos mínimos
+
+
+
+
+
+
+----------------------------------------------------------Overwatch: requisitos mínimos System Requirements (Minimum)----------------------------------------------------------
 
 Sistema operacional: Windows 7
 Processador: Intel Core i3 ou AMD Phenom X3 8650
@@ -141,10 +190,15 @@ Memória: RAM 4GB
 Placa de vídeo: NVIDIA GeForce GTX 460, ATI Radeon HD 4850 ou Intel HD Graphics 4400
 Espaço em disco: 30GB
 
-Overwatch: requisitos recomendados
+----------------------------------------------------------Overwatch: requisitos recomendados Recommended Requirements----------------------------------------------------------
 
 Sistema operacional: Windows 7 ou superior
 Processador: Intel Core i5 ou AMD Phenom II X3 ou superior
 Memória RAM: 6GB
 Placa de vídeo: NVIDIA GeForce GTX 660 ou AMD Radeon HD 7950 ou superior
 Espaço em disco: 30GB
+
+
+
+
+
