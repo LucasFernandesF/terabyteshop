@@ -1,3 +1,107 @@
-Cliente dona de uma loja que vende computadores e seu público alvo é gamers 
-Problema: Seus clientes não sabem qual o melhor computador, com os requisitos mínimos, para jogar jogos específicos
-Solução: A cliente quer criar um software para sua loja que indica computadores de acordo com os jogos que os clientes querem. 
+1.	INTRODUÇÃO
+
+1.1.	Problema
+
+Os clientes da TeraByte Games tem dificuldade para escolher as configurações exatas que precisam para jogarem seus jogos favoritos, a maioria das compras são realizadas atraves do conhecimento do comprador geradando com isso várias reclamações e trocas de peças.
+
+1.2.	Solução
+
+Criar um software para a loja que montará automaticamente a melhor configuração para os jogos pré selecionados pelo o cliente, garantindo que o mesmo saia da loja com a certeza dos jogos que poderá jogar.
+
+
+2.	REQUISITOS FUNCIONAIS
+
+
+2.1.	<RF01> <O sistema permitira o usuario cadastrar estoque>
+
+A cliente precisa cadastrar, listar, alterar e excluir os itens, bem como a quantidade de cada um deles.
+
+2.2.	<RF02> <Funcionar em um Totem de atendimento>
+
+A interface utilizada será um Totem de atendimento onde o usuário irá interagir com o sistema.
+
+2.3.	<RF03> <O sistema precisa exibir as categorias de jogos>
+
+É necessário a opção para filtrar jogos separando-os por categorias.
+
+2.4.	<RF04> <O sistema precisa que o usuário permita selecionar os jogos>
+
+O usuário deverá escolher os jogos que vai jogar de acordo com a sua preferência.
+
+2.5.	<RF05> <O sistema precisa que o usuario permita confirmar os jogos>
+
+O usuário deverá confirmar os jogos selecionados.
+
+2.6.	<RF06> <O sistema precisa co-relacionar os jogos com as peças>
+
+O sistema deve relacionar os jogos escolhidos pelo usuário com as peças necessárias para rodar os jogos.
+
+2.7.	<RF07> <O sistema também deve mostrar o preço total das três opções de computadores>
+
+Após relacionar os jogos com as peças, o sistema deve listar todas as configurações disponíveis, sendo elas o MÍNIMO, RECOMENDADO e MÁXIMO.
+
+2.8.	<RF08> <O sistema precisa que o usuário permita selecionar uma das três opções de computadores>
+
+O usuário deve selecionar uma das três opções sugeridas pelo computador de acordo com a sua preferência.
+
+2.9.	<RF09> <O sistema deve permitir o usuário de editar as configurações sugeridas>
+
+O sistema deve ter a opção de alterar os itens sugeridos por outros de preferência do usuário.
+
+2.10.	<RF10> <O sistema precisa mostrar todos os itens de cada peça do computador para o usuário fazer a troca>
+
+Após o usuário selecionar uma peça para editar, o sistema deve mostrar todas as peças disponíveis do tipo de peça selecionada.
+
+
+2.11.	<RF11> <O sistema precisa que o usuário possa confirmar a alteração>
+
+O usuário deve confirmar a alteração da peça.
+
+2.12.	<RF12> <O sistema precisa que o usuário possa confirmar o pedido> 
+
+O usuário deve confirmar as trocas feitas.
+
+2.13.	<RF13> <O sistema vai gerar a confirmação do pedido>
+
+O sistema deve gerar a confirmação do pedido mostrado todas as peças escolhidas pelo usuário.
+
+2.14.	<RF14> <O sistema vai gerar a faturação do pedido>
+
+O sistema deve gerar a fatura do pedido de acordo com o n.º 5 do artigo 36.º do Código do IVA.
+
+2.15.	<RF15> <O sistema vai atualizar o estoque>
+
+O sistema deve subtrair o pedido do estoque.
+
+2.16.	<RF16> <O sistema deve ter um atalho de acesso>
+
+O sistema deve ter um atalho de acesso para o cliente fazer as atualizações de estoque da loja dentro do sistema.
+
+2.17.	<RF17> <Autenticação do usuário administrador>
+
+Deverá ser autenticado atraves de usuário e senha durante a utilização do administrador (telas de cadastro e estoque)
+
+
+3.	REQUISITOS NÃO FUNCIONAIS
+
+
+3.1.	<RNF01> <Utilização de forma online e em rede fechada>
+
+O sistema deve ser executado de forma offline, atraves de conexão com a rede interna do cliente.
+
+3.2.	<RNF02> <Utilização de tela sensivel a toque>
+
+Interface do usuário deverá utilizar dispositio sensivo a toque.
+
+3.3.	<RNF03> <Utilização de cor especifíca>
+
+A cor base utilizada deverá ser a paleta degradê Azul - Roxo
+
+3.4.	<RNF04> <O sistema deve ser implementado em java>
+
+O sistema deve ser feito em Java por escolha do cliente
+
+3.5.	<RNF05> <O sistema deve funcionar em um totem de atendimento e em computadores>
+
+O sistema deve funcionar em um totem para o uso dos clientes da loja e também em um computador para o administrador atualizar a lista de estoque do sistema.
+
