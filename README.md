@@ -11,8 +11,8 @@ Esse projeto é um software para indicar automaticamente a melhor configuracão 
 * [Autores](#autores)
 
 
-# Requisitos Funcionais
-(Levantamento de Requisitos.docx)
+# Requisitos Funcionais e não Funcionais
+Para ver os requisitos acesse o doc [Levantamento de Requisitos](LevantamentodeRequisitos.docx)
 # Tecnologias Usadas 
 
 - [Visual Paradigm Online](https://online.visual-paradigm.com/pt/)
