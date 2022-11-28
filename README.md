@@ -14,8 +14,8 @@ Esse projeto é um software para indicar automaticamente a melhor configuracão 
 # Requisitos Funcionais e não Funcionais
 Para ver os requisitos acesse o doc: [Levantamento de Requisitos](LevantamentodeRequisitos.docx)
 
-# Casos de uso
-(https://raw.githubusercontent.com/LucasFernandesF/terabyteshop/main/Caso%20de%20Uso.png)
+# Caso de uso
+![Caso de Uso](https://raw.githubusercontent.com/LucasFernandesF/terabyteshop/main/Caso%20de%20Uso.png)
 # Tecnologias Usadas 
 
 
