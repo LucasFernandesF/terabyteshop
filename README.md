@@ -6,14 +6,18 @@ Esse projeto é um software para indicar automaticamente a melhor configuracão 
 # Sumário
 * [Sobre](#sobre-o-projeto)
 * [Sumário](#índice/sumário)
-* [Requisitos Funcionais](#requisitos-funcionais)
+* [Requisitos Funcionais](#requisitos-funcionais-e-não-Funcionais)
 * [Tecnologias Usadas](#tecnologias-usadas)
 * [Autores](#autores)
 
 
 # Requisitos Funcionais e não Funcionais
-Para ver os requisitos acesse o doc [Levantamento de Requisitos](LevantamentodeRequisitos.docx)
+Para ver os requisitos acesse o doc: [Levantamento de Requisitos](LevantamentodeRequisitos.docx)
+
+# Casos de uso
+(CasodeUso.png)
 # Tecnologias Usadas 
+
 
 - [Visual Paradigm Online](https://online.visual-paradigm.com/pt/)
 - [Canva](https://www.canva.com/pt_br/)
