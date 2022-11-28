@@ -1,5 +1,5 @@
 #  Terabyteshop
-
+![LOGO](https://raw.githubusercontent.com/LucasFernandesF/terabyteshop/main/LOGO.png)
 # Sobre o Projeto
 Esse projeto é um software para indicar automaticamente a melhor configuracão para os jogos selecionados de acordo com o gosto do cliente da Terabyte Shop pois estava tendo um dificuldade de escolher as configuracões exatas do PC.
  
