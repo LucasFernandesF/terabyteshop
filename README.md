@@ -16,6 +16,24 @@ Para ver os requisitos acesse o doc: [Levantamento de Requisitos](Levantamentode
 
 # Caso de uso
 ![Caso de Uso](https://raw.githubusercontent.com/LucasFernandesF/terabyteshop/main/Caso%20de%20Uso.png)
+
+# Protótipo
+[Protótipo - TOTEM](https://www.figma.com/proto/yfIrvVG1MwhpNAjzTCyfxc/Projeto-UNA-01.2022?node-id=1%3A3&starting-point-node-id=1%3A3&scaling=scale-down)
+[Protótipo - PC](https://www.figma.com/proto/DUViC864fYbAeZy8AEA7Pw/TERABYTE---PC?node-id=9%3A33&scaling=contain&page-id=0%3A1&starting-point-node-id=1%3A2)
+
+# Diagrama de classes
+![Diagrama de classes](https://raw.githubusercontent.com/LucasFernandesF/terabyteshop/main/Diagrama%20de%20Classes.png)
+
+# Diagrama de Atividade
+![Diagrama de Atividade](https://raw.githubusercontent.com/LucasFernandesF/terabyteshop/main/Diagrama%20Atividade.png)
+
+# Diagrama de Sequência
+![Diagrama de Sequência](https://raw.githubusercontent.com/LucasFernandesF/terabyteshop/main/Diagrama%20de%20Sequencia.png)
+
+# Diagrama de ER
+![Diagrama de ER](https://raw.githubusercontent.com/LucasFernandesF/terabyteshop/main/Diagrama%20ER.png)
+
+
 # Tecnologias Usadas 
 
 
